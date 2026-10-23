@@ -6,7 +6,7 @@ Adapted from # cdsw-2020 https://wiki.communitydata.science/Seattle_open_data
 # A1 — Working with Open Data
 
 **Dataset:** Burke-Gilman Trail counter north of NE 70th St
-**Source:** https://data.seattle.gov/Transportation/.../2z5v-ecg8  (pulled 2026-10-13)
+**Source:** https://data.seattle.gov/Transportation/Burke-Gilman-Trail-north-of-NE-70th-St-Bicycle-Cou/2z5v-ecg8  (pulled 2026-10-13)
 **License / terms of use:** Public Domain
 
 ## Questions I asked
